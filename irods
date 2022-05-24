@@ -1,0 +1,2 @@
+# auth required pam_allow.so
+auth required pam_python.so /etc/pam.d/2fa_expire.py
